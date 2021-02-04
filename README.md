@@ -1,1 +1,1 @@
-wp-admin-banner-library
+Installation: composer require xpeedstudio/wp-admin-banner-library
